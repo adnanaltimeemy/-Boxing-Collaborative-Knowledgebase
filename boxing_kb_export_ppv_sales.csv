@@ -1,0 +1,2 @@
+ppv_id,event_id,platform,buys,price_usd,gross_usd,source,confidence,created_at
+1,1,streaming,350000,79.99,27996500.0,internal estimate,0.6,2026-02-03T08:41:06

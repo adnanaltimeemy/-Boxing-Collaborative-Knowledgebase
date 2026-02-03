@@ -1,0 +1,3 @@
+fighter_id,name,country,stance,weight_class,created_at
+1,Example Fighter A,US,orthodox,Welterweight,2026-02-03T08:41:06
+2,Example Fighter B,GB,southpaw,Welterweight,2026-02-03T08:41:06

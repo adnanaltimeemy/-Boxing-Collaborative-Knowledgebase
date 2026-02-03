@@ -1,0 +1,12 @@
+edit_id,table_name,row_id,action,changed_fields,contributor_id,timestamp,note
+1,contributors,1,insert,display_name=Alice Analyst,1,2026-02-03T08:41:06,
+2,contributors,2,insert,display_name=Bob BoxingShop,2,2026-02-03T08:41:06,
+3,fighters,1,insert,name=Example Fighter A,1,2026-02-03T08:41:06,
+4,fighters,2,insert,name=Example Fighter B,1,2026-02-03T08:41:06,
+5,events,1,insert,event_name=Example Fight Night: A vs B,1,2026-02-03T08:41:06,
+6,bouts,1,insert,event_id=1,1,2026-02-03T08:41:06,
+7,ppv_sales,1,insert,"event_id=1,buys=350000",1,2026-02-03T08:41:06,
+8,ticket_sales,1,insert,"event_id=1,gate_usd=8200000",2,2026-02-03T08:41:06,
+9,merch_sales,1,insert,"item_type=tee,gross=147000.0",2,2026-02-03T08:41:06,
+10,techniques,1,insert,name=Jab,1,2026-02-03T08:41:06,
+11,notes,1,insert,"entity=event:1,title=Sales drivers & marketing notes",1,2026-02-03T08:41:06,

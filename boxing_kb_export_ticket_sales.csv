@@ -1,0 +1,2 @@
+ticket_id,event_id,attendance,gate_usd,avg_ticket_usd,source,confidence,created_at
+1,1,14500,8200000.0,565.5172413793103,venue report,0.7,2026-02-03T08:41:06

@@ -1,0 +1,2 @@
+merch_id,event_id,fighter_id,item_type,units,unit_price_usd,gross_usd,channel,source,confidence,created_at
+1,1,1,tee,4200,35.0,147000.0,arena,POS export,0.8,2026-02-03T08:41:06
